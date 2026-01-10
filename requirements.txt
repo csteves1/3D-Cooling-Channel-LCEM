@@ -1,0 +1,6 @@
+numpy
+streamlit
+cadquery
+optuna
+scikit-learn
+matplotlib

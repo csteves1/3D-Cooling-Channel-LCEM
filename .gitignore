@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.FCStd
+*.step
+*.stl
+*.svg
+*.png
+.DS_Store
+.vscode/
